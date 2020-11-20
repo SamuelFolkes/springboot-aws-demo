@@ -25,4 +25,7 @@ functions:
       - http:
           path: /pets
           method: get
+      - http:
+          path: /pets
+          method: post
     timeout: 30
