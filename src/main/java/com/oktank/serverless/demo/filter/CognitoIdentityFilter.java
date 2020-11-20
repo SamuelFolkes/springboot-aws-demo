@@ -1,4 +1,4 @@
-package com.oktank.serverless.demo.springboot2.filter;
+package com.oktank.serverless.demo.filter;
 
 
 import com.amazonaws.serverless.proxy.RequestReader;

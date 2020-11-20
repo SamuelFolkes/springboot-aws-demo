@@ -1,6 +1,6 @@
-package com.oktank.serverless.demo.springboot2;
+package com.oktank.serverless.demo;
 
-import com.oktank.serverless.demo.springboot2.controller.PetsController;
+import com.oktank.serverless.demo.controller.PetsController;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;

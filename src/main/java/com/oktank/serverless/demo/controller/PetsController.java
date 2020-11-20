@@ -10,12 +10,12 @@
  * OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions
  * and limitations under the License.
  */
-package com.oktank.serverless.demo.springboot2.controller;
+package com.oktank.serverless.demo.controller;
 
 
 
-import com.oktank.serverless.demo.springboot2.model.Pet;
-import com.oktank.serverless.demo.springboot2.model.PetData;
+import com.oktank.serverless.demo.model.Pet;
+import com.oktank.serverless.demo.model.PetData;
 
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
