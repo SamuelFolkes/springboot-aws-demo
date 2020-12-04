@@ -89,4 +89,4 @@ resources:
           - CognitoUserPool
           - Arn
       Export:
-        Name: CognitoUserPoolArn-${self:custom.currentStage}
+        Name: CognitoUserPoolArn-${self:custom.stage}
